@@ -1,5 +1,8 @@
 ### Portfolio Website
-    This is my personal portfolio website built to showcase my projects, skills, and achievements. It highlights my experience in various technologies, including [list of technologies used, e.g., React, Django, Node.js, etc.], and features an interactive layout with smooth scrolling, lightbox for project images, and an integrated contact form powered by EmailJS for seamless communication.
+This is my personal portfolio website built to showcase my projects, skills, and achievements. It highlights my experience in
+various technologies, including [list of technologies used, e.g., React, Django, Node.js, etc.], and features an interactive
+layout with smooth scrolling, lightbox for project images, and an integrated contact form powered by EmailJS for seamless
+communication.
 
 ### Live Demo: https://sangitarawlo.netlify.app/ 
 
